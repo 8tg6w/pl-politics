@@ -26,3 +26,4 @@ language = 'pl'
 html_theme = 'furo'
 html_static_path = ['_static']
 html_title = 'PL Politics'
+html_extra_path = ['_extra']
